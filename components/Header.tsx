@@ -146,7 +146,7 @@ const Header: React.FC = () => {
             }
 
             a + a {
-              margin-left ; 1rem;
+              margin-left: 1rem;
             }
           `}
         </style>
